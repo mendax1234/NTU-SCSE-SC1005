@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Sun Oct 15 20:03:46 2023
+# Process ID: 16588
+# Current directory: E:/NTU/23-S1/SC1005/Lab/Lab4/Lab4.runs/synth_1
+# Command line: vivado.exe -log vaddoflow.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vaddoflow.tcl
+# Log file: E:/NTU/23-S1/SC1005/Lab/Lab4/Lab4.runs/synth_1/vaddoflow.vds
+# Journal file: E:/NTU/23-S1/SC1005/Lab/Lab4/Lab4.runs/synth_1\vivado.jou
+# Running On: ThinkPadX390, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8394 MB
+#-----------------------------------------------------------
+source vaddoflow.tcl -notrace
